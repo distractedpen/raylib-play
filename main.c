@@ -1,9 +1,3 @@
-/***
- *
- * TODO: Fix Score Display
- * TODO: Fix Enemy Spawn Locations
- ***/
-
 #include <stdio.h> 
 #include <time.h>
 #include <stdlib.h>
